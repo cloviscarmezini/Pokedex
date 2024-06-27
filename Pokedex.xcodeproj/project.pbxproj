@@ -13,6 +13,7 @@
 		618EDFDA2C2BAA4600BCD615 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 618EDFD92C2BAA4600BCD615 /* Preview Assets.xcassets */; };
 		618EDFDC2C2BAA4600BCD615 /* Persistence.swift in Sources */ = {isa = PBXBuildFile; fileRef = 618EDFDB2C2BAA4600BCD615 /* Persistence.swift */; };
 		618EDFDF2C2BAA4600BCD615 /* Pokedex.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 618EDFDD2C2BAA4600BCD615 /* Pokedex.xcdatamodeld */; };
+		618EDFE62C2BAF5E00BCD615 /* TempPokemon.swift in Sources */ = {isa = PBXBuildFile; fileRef = 618EDFE52C2BAF5E00BCD615 /* TempPokemon.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		618EDFD92C2BAA4600BCD615 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		618EDFDB2C2BAA4600BCD615 /* Persistence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Persistence.swift; sourceTree = "<group>"; };
 		618EDFDE2C2BAA4600BCD615 /* Pokedex.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Pokedex.xcdatamodel; sourceTree = "<group>"; };
+		618EDFE52C2BAF5E00BCD615 /* TempPokemon.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TempPokemon.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,9 +59,10 @@
 			children = (
 				618EDFD22C2BAA4500BCD615 /* PokedexApp.swift */,
 				618EDFD42C2BAA4500BCD615 /* ContentView.swift */,
-				618EDFD62C2BAA4600BCD615 /* Assets.xcassets */,
+				618EDFE52C2BAF5E00BCD615 /* TempPokemon.swift */,
 				618EDFDB2C2BAA4600BCD615 /* Persistence.swift */,
 				618EDFDD2C2BAA4600BCD615 /* Pokedex.xcdatamodeld */,
+				618EDFD62C2BAA4600BCD615 /* Assets.xcassets */,
 				618EDFD82C2BAA4600BCD615 /* Preview Content */,
 			);
 			path = Pokedex;
@@ -145,6 +148,7 @@
 			files = (
 				618EDFDF2C2BAA4600BCD615 /* Pokedex.xcdatamodeld in Sources */,
 				618EDFDC2C2BAA4600BCD615 /* Persistence.swift in Sources */,
+				618EDFE62C2BAF5E00BCD615 /* TempPokemon.swift in Sources */,
 				618EDFD52C2BAA4500BCD615 /* ContentView.swift in Sources */,
 				618EDFD32C2BAA4500BCD615 /* PokedexApp.swift in Sources */,
 			);
