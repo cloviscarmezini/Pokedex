@@ -6,10 +6,10 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>2F0E596F-EBDB-46BA-8D1F-1990DD6EA4CA</key>
+		<key>0FD9F05D-0368-42D6-943B-32431450178D</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>B9C29A3E-2A09-437F-B81F-CD08B6DA4C9E</string>
+			<string>725A2D6E-ECDB-454B-8BA5-32CF29AD0501</string>
 			<key>auxiliaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
@@ -30,7 +30,7 @@
 			<key>domainType</key>
 			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
 			<key>fileName</key>
-			<string>Run-Pokedex-2024.07.02_22-15-51--0300.xcresult</string>
+			<string>Run-PokedexWidgetExtension-2024.07.03_00-00-24--0300.xcresult</string>
 			<key>hasAuxiliaryLog</key>
 			<true/>
 			<key>hasConsoleLog</key>
@@ -53,24 +53,24 @@
 			<key>schemeIdentifier-containerName</key>
 			<string>Pokedex project</string>
 			<key>schemeIdentifier-schemeName</key>
-			<string>Pokedex</string>
+			<string>PokedexWidgetExtension</string>
 			<key>schemeIdentifier-sharedScheme</key>
 			<integer>1</integer>
 			<key>signature</key>
-			<string>Run Pokedex</string>
+			<string>Run PokedexWidgetExtension</string>
 			<key>timeStartedRecording</key>
-			<real>741662151.05924499</real>
+			<real>741668424.45446503</real>
 			<key>timeStoppedRecording</key>
 			<real>0.0</real>
 			<key>title</key>
-			<string>Run Pokedex</string>
+			<string>Run PokedexWidgetExtension</string>
 			<key>uniqueIdentifier</key>
-			<string>2F0E596F-EBDB-46BA-8D1F-1990DD6EA4CA</string>
+			<string>0FD9F05D-0368-42D6-943B-32431450178D</string>
 		</dict>
-		<key>36B08CC4-F5E4-4CB7-A0BD-7E8F4CA2FAB7</key>
+		<key>3FF6FC8C-7022-48A1-A055-8D4CBBC59A06</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>F0F084AB-9428-45C5-95E3-CE8BF4CAFF53</string>
+			<string>A87C0091-BC40-4BB5-935D-FA091140C99B</string>
 			<key>auxiliaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
@@ -91,7 +91,7 @@
 			<key>domainType</key>
 			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
 			<key>fileName</key>
-			<string>Run-Pokedex-2024.07.02_22-08-16--0300.xcresult</string>
+			<string>Run-Pokedex-2024.07.02_23-56-55--0300.xcresult</string>
 			<key>hasAuxiliaryLog</key>
 			<true/>
 			<key>hasConsoleLog</key>
@@ -120,18 +120,18 @@
 			<key>signature</key>
 			<string>Run Pokedex</string>
 			<key>timeStartedRecording</key>
-			<real>741661696.93620706</real>
+			<real>741668215.16786695</real>
 			<key>timeStoppedRecording</key>
 			<real>0.0</real>
 			<key>title</key>
 			<string>Run Pokedex</string>
 			<key>uniqueIdentifier</key>
-			<string>36B08CC4-F5E4-4CB7-A0BD-7E8F4CA2FAB7</string>
+			<string>3FF6FC8C-7022-48A1-A055-8D4CBBC59A06</string>
 		</dict>
-		<key>6EDA4DED-913F-46F6-918B-883E6A2A2907</key>
+		<key>72119485-751A-4F13-8AB4-5D0E3E3CC164</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>900F370E-B2F3-4E7E-B6DF-E6A742DFB717</string>
+			<string>AD77E671-E99D-4B7C-9728-EB6F2EDE96CE</string>
 			<key>auxiliaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
@@ -152,7 +152,7 @@
 			<key>domainType</key>
 			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
 			<key>fileName</key>
-			<string>Run-Pokedex-2024.07.02_22-13-52--0300.xcresult</string>
+			<string>Run-Pokedex-2024.07.02_22-25-27--0300.xcresult</string>
 			<key>hasAuxiliaryLog</key>
 			<true/>
 			<key>hasConsoleLog</key>
@@ -181,140 +181,18 @@
 			<key>signature</key>
 			<string>Run Pokedex</string>
 			<key>timeStartedRecording</key>
-			<real>741662032.13936996</real>
+			<real>741662727.16992497</real>
 			<key>timeStoppedRecording</key>
 			<real>0.0</real>
 			<key>title</key>
 			<string>Run Pokedex</string>
 			<key>uniqueIdentifier</key>
-			<string>6EDA4DED-913F-46F6-918B-883E6A2A2907</string>
+			<string>72119485-751A-4F13-8AB4-5D0E3E3CC164</string>
 		</dict>
-		<key>7E44DB94-F9D5-4130-8F6A-A71CA7CD053C</key>
+		<key>9B02F66F-2BB6-4519-AE38-1BF13D972FF9</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>8278229C-B07D-441B-BB01-9CAF74B2CA09</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>1</integer>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-Pokedex-2024.07.02_22-01-30--0300.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>1</integer>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Pokedex project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Pokedex</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run Pokedex</string>
-			<key>timeStartedRecording</key>
-			<real>741661290.45301104</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run Pokedex</string>
-			<key>uniqueIdentifier</key>
-			<string>7E44DB94-F9D5-4130-8F6A-A71CA7CD053C</string>
-		</dict>
-		<key>DF9901A3-61A3-4696-A1CD-C1BD594D2A11</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>7B67A42D-8BBD-4309-B02C-685762E47FDE</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>1</integer>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-Pokedex-2024.07.02_21-38-21--0300.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>1</integer>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Pokedex project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Pokedex</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run Pokedex</string>
-			<key>timeStartedRecording</key>
-			<real>741659901.57786202</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run Pokedex</string>
-			<key>uniqueIdentifier</key>
-			<string>DF9901A3-61A3-4696-A1CD-C1BD594D2A11</string>
-		</dict>
-		<key>E7C9CCC8-65B2-4C27-B93F-E088CFC4C0BD</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>BDE8B998-7660-4874-BACD-E65A78B18B17</string>
+			<string>80C37519-B954-4474-A51D-C3354D4BB17F</string>
 			<key>auxiliaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
@@ -335,7 +213,7 @@
 			<key>domainType</key>
 			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
 			<key>fileName</key>
-			<string>Run-Pokedex-2024.07.02_00-47-08--0300.xcresult</string>
+			<string>Run-Pokedex-2024.07.02_23-56-10--0300.xcresult</string>
 			<key>hasAuxiliaryLog</key>
 			<true/>
 			<key>hasConsoleLog</key>
@@ -364,13 +242,135 @@
 			<key>signature</key>
 			<string>Run Pokedex</string>
 			<key>timeStartedRecording</key>
-			<real>741584828.39104605</real>
+			<real>741668170.13562703</real>
 			<key>timeStoppedRecording</key>
 			<real>0.0</real>
 			<key>title</key>
 			<string>Run Pokedex</string>
 			<key>uniqueIdentifier</key>
-			<string>E7C9CCC8-65B2-4C27-B93F-E088CFC4C0BD</string>
+			<string>9B02F66F-2BB6-4519-AE38-1BF13D972FF9</string>
+		</dict>
+		<key>9F9335AD-E2D9-4B79-A354-2D7CA6A9ACFB</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>09E8D954-002B-4197-B9A7-CC409AC440BF</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-PokedexWidgetExtension-2024.07.03_00-00-13--0300.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Pokedex project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>PokedexWidgetExtension</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run PokedexWidgetExtension</string>
+			<key>timeStartedRecording</key>
+			<real>741668413.285321</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run PokedexWidgetExtension</string>
+			<key>uniqueIdentifier</key>
+			<string>9F9335AD-E2D9-4B79-A354-2D7CA6A9ACFB</string>
+		</dict>
+		<key>FEF96FCE-EB46-4BAE-81C2-29523FBD315B</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>B92948B1-9A1C-4C16-B63C-8BCC2D91B617</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-PokedexWidgetExtension-2024.07.02_23-58-02--0300.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Pokedex project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>PokedexWidgetExtension</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run PokedexWidgetExtension</string>
+			<key>timeStartedRecording</key>
+			<real>741668282.36103296</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run PokedexWidgetExtension</string>
+			<key>uniqueIdentifier</key>
+			<string>FEF96FCE-EB46-4BAE-81C2-29523FBD315B</string>
 		</dict>
 	</dict>
 </dict>
